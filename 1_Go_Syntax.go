@@ -1,5 +1,5 @@
 /* 
-		Basic Syntax of Go
+		Basic Syntax of Go Lang
 
 A Go file consists of the following parts:
 
