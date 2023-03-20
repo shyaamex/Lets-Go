@@ -1,5 +1,5 @@
 /* 
-		Basic Syntax of Go
+		Basic Syntax of Go Lang
 
 A Go file consists of the following parts:
 
@@ -19,7 +19,7 @@ package main	//Package Declaration
 import ("fmt") 	// Importing fmt package; it is used with print statement.
 
 
-// Declaring the main Function ( All code would be written in this function )
+// Declaring the main Function ( All code would be written in this only function )
 
 
 func main() {
